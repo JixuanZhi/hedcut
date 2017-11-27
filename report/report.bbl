@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{fortune1987sweepline}
+Steven Fortune.
+\newblock A sweepline algorithm for voronoi diagrams.
+\newblock {\em Algorithmica}, 2(1-4):153, 1987.
+
+\bibitem{hoff1999fast}
+Kenneth~E Hoff~III, John Keyser, Ming Lin, Dinesh Manocha, and Tim Culver.
+\newblock Fast computation of generalized voronoi diagrams using graphics
+  hardware.
+\newblock In {\em Proceedings of the 26th annual conference on Computer
+  graphics and interactive techniques}, pages 277--286. ACM
+  Press/Addison-Wesley Publishing Co., 1999.
+
+\bibitem{secord2002weighted}
+Adrian Secord.
+\newblock Weighted voronoi stippling.
+\newblock In {\em Proceedings of the 2nd international symposium on
+  Non-photorealistic animation and rendering}, pages 37--43. ACM, 2002.
+
+\bibitem{floydSteinberg1976dithering}
+Robert W.~Floyd and Louis Steinberg.
+\newblock Adaptive algorithm for spatial greyscale.
+\newblock In {\em Proc Soc Inf Disp}, volume~17, pages 75--77, 06 1976.
+
+\end{thebibliography}
